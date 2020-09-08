@@ -30,6 +30,11 @@ form .btn-submit{
     top: 280px;
     left: 22%;
 }
+form .image-search{
+    position: absolute;
+    top: 280px;
+    left: 35%;
+}
 form .btn-lucky{
     position: absolute;
     top: 280px;
