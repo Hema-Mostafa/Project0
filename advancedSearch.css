@@ -1,0 +1,56 @@
+.top-bar{
+    background-color: #f1f1f1;
+
+}
+.title{
+    color:#d93025 ;
+    margin: 20px;
+    font-size: 20px;
+}
+hr{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+.left-title{
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom:15px ;
+    font-size: 16px;
+}
+.right-title{
+    color: #5F6368;
+    font-size: 14px;
+    font-weight: 500;
+}
+.form-control{
+    margin-bottom: 15px;
+    height: 30px;
+}
+.small-text{
+    font-size: 14px;
+    color: #555;
+    line-height: 1.5;
+}
+.btn-primary{
+    font-size: 14px;
+    margin: 5px 5px 10px ;
+    
+}
+
+label{
+    font-size: 14px;
+    margin-left: 18px;
+}
+.float-right{
+    margin: 10px ;
+}
+a{
+    color: #000;
+    font-size: 14px;
+    margin: 5px 2px;
+    text-decoration:none;
+}
+a:hover{
+    /* border-bottom: 1px solid #000; */
+    color: #5F6368;
+}
